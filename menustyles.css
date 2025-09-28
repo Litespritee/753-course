@@ -1,4 +1,4 @@
-nav ul {background-color: #AFDDF0;
+nav ul {background-color: #5e010c;
   list-style: none;
   padding: 0;
   width: 400px;
@@ -12,7 +12,7 @@ nav ul li {
 nav ul li:last-child {
   border-bottom: none;}
 nav ul li a {
-  color: black;
+  color: rgb(212, 208, 196);
   text-decoration: none;}
 nav ul li a:hover {
   text-decoration: underline;}
