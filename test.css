@@ -1,0 +1,22 @@
+.site-nav {background-color: #5e010c;
+  display: flex;
+  list-style: none;
+  margin: auto;
+  font-family: Garamond, serif;
+  width: 100%;
+  text-align: center;
+  padding: 3px 6px;
+  font-size: 21px;}
+.site-nav .site-nav-item {
+  padding: 3px;
+  width: 100%;
+  text-align: center;}
+.site-nav .site-nav-item:last-child {
+  border-bottom: none;
+  text-align: center;}
+.site-nav .site-nav-item a {
+  color: rgb(212, 208, 196);
+  text-align: center;
+  text-decoration: none;}
+.site-nav .site-nav-item a:hover {
+  text-decoration: underline;}
