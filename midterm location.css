@@ -43,3 +43,7 @@ padding: 1px;
 article figure img {
 width: 100%;
 }
+footer{
+  text-align: center;
+  font-size: small;
+}

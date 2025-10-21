@@ -36,3 +36,7 @@ article header p {
 background-color: white;
 color: black;
 }
+footer{
+  text-align: center;
+  font-size: small;
+}
