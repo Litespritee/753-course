@@ -1,0 +1,46 @@
+nav ul {background-color: #0C5231;
+  display: flex;
+  list-style: none;
+  margin: auto;
+  font-family: Courier New;
+  width: 100%;
+  text-align: center;
+  padding: 3px 6px;
+  font-size: 21px;}
+nav ul li {
+  padding: 3px;
+  width: 100%;
+  text-align: center;}
+nav ul li:last-child {
+  border-bottom: none;
+  text-align: center;}
+nav ul li a {
+  color: rgb(212, 208, 196);
+  text-align: center;
+  text-decoration: none;}
+nav ul li a:hover {
+  text-decoration: underline;}
+
+body {
+font-family: Courier New;
+}
+header{
+  text-align: center;
+  font-size: 32px;
+}
+article {
+width: fit-content;
+  padding: 3px;
+}
+article header p {
+background-color: white;
+color: black;
+}
+article figure {
+width: 720px;
+border: 3px solid black;
+padding: 5px;
+}
+article figure img {
+width: 100%;
+}
