@@ -16,7 +16,6 @@ header {
 }
 figure img {
   border: 2px solid black;
-  width: 400px;
 }
 img {
     max-width: 100%;
