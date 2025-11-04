@@ -17,9 +17,11 @@ header {
 figure img {
   border: 2px solid black;
 }
-img {
-    max-width: 100%;
-  height: auto;
+@media all and (min-width: 769px)
+{
+  img {
+   max-width: 100%;
+  height: auto;}
 }
 figcaption {
   background-color: #6b131d;
