@@ -27,6 +27,7 @@ figcaption {
   background-color: #6b131d;
   color: #ebe5ce;
   width: 404px;
+  max-width: 100%;
 }
 nav ul {background-color: #5e010c;
   display: flex;
@@ -44,7 +45,6 @@ nav ul {background-color: #5e010c;
   display: flex;
   justify-content: center;}
 }
-
 nav ul li {
   padding: 3px;
   width: 100%;
