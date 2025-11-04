@@ -18,14 +18,14 @@ figure img {
   border: 2px solid black;
   width: 400px;
 }
+img {
+    max-width: 100%;
+  height: auto;
+}
 figcaption {
   background-color: #6b131d;
   color: #ebe5ce;
   width: 404px;
-}
-figure img {
-  border: 2px solid black;
-  width: 400px;
 }
 nav ul {background-color: #5e010c;
   display: flex;
