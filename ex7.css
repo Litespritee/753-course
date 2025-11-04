@@ -22,12 +22,14 @@ figure img {
   img {
    max-width: 100%;
   height: auto;}
+  figcaption {
+ max-width: 100%
+  }
 }
 figcaption {
   background-color: #6b131d;
   color: #ebe5ce;
   width: 404px;
-  max-width: 100%;
 }
 nav ul {background-color: #5e010c;
   display: flex;
