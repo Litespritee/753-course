@@ -17,7 +17,7 @@ header {
 figure img {
   border: 2px solid black;
 }
-@media all and (min-width: 769px)
+@media all and (min-width: 375px)
 {
   img {
 max-width: 100%;
