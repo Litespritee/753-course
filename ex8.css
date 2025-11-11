@@ -1,0 +1,49 @@
+body {
+  background-color: #ebe5ce;
+  font-family: Garamond, serif;
+}
+#message{
+  background: #45FF92;
+  border: 2px solid #00C453;
+  padding: 10px 40px;
+  margin: 11px 0;
+  border-radius: 4px;
+  opacity: 1;
+  transition: opacity .2s ease;
+}
+#message.dismissed{
+  opacity: 0;
+  height: 0;
+}
+body.dark-mode {
+  background: #010101;
+  color: #ffffff;
+}
+body.dark-mode button {
+  background-color: #ffffff;
+}
+h1#site-title {
+  color: #6b131d;
+  letter-spacing: -2px;
+  text-align: center;
+  margin: 2%;
+  font-size: 50px;
+}
+header {
+  color: #6b131d;
+  font-size: 40px;
+  text-align: center;
+}
+figure img {
+  border: 2px solid black;
+  width: 400px;
+}
+figcaption {
+  background-color: #6b131d;
+  color: #ebe5ce;
+  width: 404px;
+}
+figure img {
+  border: 2px solid black;
+  width: 400px;
+}
